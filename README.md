@@ -1,4 +1,4 @@
-<img width="970" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a18cf81-b3a7-40dc-becc-db8c2875aeac" /><div align="center">
+
   <h1>🛡️ QBCore Dynamic Admin Tag (qb-tag)</h1>
   <p><i>A hyper-optimized, lightweight, and incredibly smart 3D Admin Tag script for the QBCore Framework.</i></p>
 
