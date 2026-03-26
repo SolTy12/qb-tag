@@ -76,4 +76,4 @@ Config.Tags = {
 - **Performance Guidelines:** 0.00ms (Idle) | ~0.02ms (Active rendering within draw distance)
 
 <hr>
-<p align="center"><i>Developed with ❤️ for the FiveM Community. Open source and free to use.</i></p>
+<p align="center"><i>Developed with ❤️ for the FiveM Community. make sure to join my discord : https://discord.gg/PY9Vj8CrPf .</i></p>
