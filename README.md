@@ -1,4 +1,4 @@
-<div align="center">
+<img width="970" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a18cf81-b3a7-40dc-becc-db8c2875aeac" /><div align="center">
   <h1>🛡️ QBCore Dynamic Admin Tag (qb-tag)</h1>
   <p><i>A hyper-optimized, lightweight, and incredibly smart 3D Admin Tag script for the QBCore Framework.</i></p>
 
@@ -67,6 +67,14 @@ Config.Tags = {
 > 💡 **Important Tip for Hebrew/RTL Text:**
 > Because the custom FiveM font engine renders text from Left-to-Right, any Hebrew text inside the `Text` variable must be written completely **backwards** to display correctly in-game. 
 > Example: To display `הנהלה`, you must write `הלנהה`.
+
+---
+
+# 📸 Preview
+
+![Preview 1](https://cdn.discordapp.com/attachments/1486049430443528192/1486852670462492762/image.png?ex=69c702f5&is=69c5b175&hm=1cb799323d922c1036239d5293defadd92180ef84f459873d6afc8fcba867402&)
+![Preview 2](https://cdn.discordapp.com/attachments/1486049430443528192/1486852671200694313/image.png?ex=69c702f5&is=69c5b175&hm=11dce3d857a1155c26425008cbd9e5b9ba7b48a5eae33ea82ee8b5cf35cd43de&)
+![Preview 3](https://cdn.discordapp.com/attachments/1486049430443528192/1486852672047939769/image.png?ex=69c702f5&is=69c5b175&hm=ab141875719fe433e966d67ca1bf77cf699639516202896e0fb7a7eadc780520&)
 
 ---
 
